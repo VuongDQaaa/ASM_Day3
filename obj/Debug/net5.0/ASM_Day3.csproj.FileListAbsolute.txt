@@ -1,0 +1,16 @@
+D:\ASM_Day3\obj\Debug\net5.0\ASM_Day3.csproj.AssemblyReference.cache
+D:\ASM_Day3\obj\Debug\net5.0\ASM_Day3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASM_Day3\obj\Debug\net5.0\ASM_Day3.AssemblyInfoInputs.cache
+D:\ASM_Day3\obj\Debug\net5.0\ASM_Day3.AssemblyInfo.cs
+D:\ASM_Day3\obj\Debug\net5.0\ASM_Day3.csproj.CoreCompileInputs.cache
+D:\ASM_Day3\bin\Debug\net5.0\ASM_Day3.exe
+D:\ASM_Day3\bin\Debug\net5.0\ASM_Day3.deps.json
+D:\ASM_Day3\bin\Debug\net5.0\ASM_Day3.runtimeconfig.json
+D:\ASM_Day3\bin\Debug\net5.0\ASM_Day3.runtimeconfig.dev.json
+D:\ASM_Day3\bin\Debug\net5.0\ASM_Day3.dll
+D:\ASM_Day3\bin\Debug\net5.0\ref\ASM_Day3.dll
+D:\ASM_Day3\bin\Debug\net5.0\ASM_Day3.pdb
+D:\ASM_Day3\obj\Debug\net5.0\ASM_Day3.dll
+D:\ASM_Day3\obj\Debug\net5.0\ref\ASM_Day3.dll
+D:\ASM_Day3\obj\Debug\net5.0\ASM_Day3.pdb
+D:\ASM_Day3\obj\Debug\net5.0\ASM_Day3.genruntimeconfig.cache
